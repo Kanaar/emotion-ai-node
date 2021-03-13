@@ -6,15 +6,14 @@
   "scripts": {
     "start": "node index.js"
   },
+  "keywords": [],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/johnpapa/node-hello.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/johnpapa/node-hello/issues"
+  "engines": {
+    "node": "14.x"
   },
-  "homepage": "https://github.com/johnpapa/node-hello#readme"
+  "author": "",
+  "license": "ISC"
 }
